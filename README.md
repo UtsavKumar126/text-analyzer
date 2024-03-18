@@ -18,10 +18,10 @@ This is a real-time text analyzer built using React. It calculates various metri
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/real-time-text-analyzer.git
-2.Navigate to the project directory:
+git clone [Github Link](https://github.com/UtsavKumar126/text-analyzer.git)
+2. Navigate to the project directory:
 cd real-time-text-analyzer
-3.Install dependencies
+3. Install dependencies
 npm install
 
 ## Usage
